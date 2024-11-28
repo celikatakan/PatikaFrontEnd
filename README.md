@@ -9,8 +9,6 @@ Projects in the first week:
 
 ## Week -1
 
----
-
 ## Task - 1: Classroom Table Project
 
 This project demonstrates how to create and style an HTML table to display student information.
