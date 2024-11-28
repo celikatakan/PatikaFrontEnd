@@ -11,7 +11,7 @@ Explore the following projects:
 
 This project demonstrates how to create and style an HTML table to display student information.
 
-[Go to Task - 1 Code](./sinif_tablosu.html)
+[Go to Task - 1 Code](./Week-1/ClassroomTableProject/sinif_tablosu.html)
 
 ---
 
