@@ -1,6 +1,6 @@
 # Projects Overview
 
-Explore the following projects:
+Projects in the first week:
 
 - [Task - 1: Classroom Table Project](#classroom-table-project)
 - [Task - 2: Form Elements Project](#form-elements-project)
