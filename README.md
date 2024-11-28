@@ -7,7 +7,7 @@ Projects in the first week:
 
 ---
 
-Week -1
+## Week -1
 
 ---
 
