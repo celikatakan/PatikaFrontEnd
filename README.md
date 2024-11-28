@@ -19,4 +19,4 @@ This project demonstrates how to create and style an HTML table to display stude
 
 This project provides an example of an HTML form with various input elements like text fields, radio buttons, dropdowns, and textareas.
 
-[Go to Task - 2 Code](./form_elements.html)
+[Go to Task - 2 Code](./Week%20-1/Use%20of%20Form%20Elements/index.html)
