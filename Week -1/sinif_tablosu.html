@@ -5,24 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sınıf Tablosu</title>
     <style>
+        /* Tablo genişliği ve kenarlık stilleri */
         table {
             width: 100%;
-            border-collapse: collapse;
+            border-collapse: collapse; /* Hücre kenarlıklarını birleştir */
         }
+        /* Hücre (başlık ve içerik) stilleri */
         th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
+            border: 1px solid black; /* Hücrelere siyah kenarlık ekle */
+            padding: 8px; /* İç boşluk ayarı */
+            text-align: left; /* Metni sola hizala */
         }
+        /* Başlık satırının arka plan rengi */
         th {
             background-color: #f2f2f2;
         }
     </style>
 </head>
 <body>
+    <!-- Sayfa başlığı -->
     <h1>Sınıf Tablosu</h1>
+
+    <!-- Tablo başlangıcı -->
     <table>
         <thead>
+            <!-- Tablo başlık satırı -->
             <tr>
                 <th>Öğrenci Numarası</th>
                 <th>Adı</th>
@@ -32,6 +39,7 @@
             </tr>
         </thead>
         <tbody>
+            <!-- Tablo içeriği (öğrenci bilgileri) -->
             <tr>
                 <td>101</td>
                 <td>Ahmet</td>
@@ -67,6 +75,7 @@
                 <td>88</td>
                 <td>2005-03-09</td>
             </tr>
+            <!-- Yeni eklenen öğrenciler -->
             <tr>
                 <td>106</td>
                 <td>Zeynep</td>
