@@ -32,3 +32,21 @@ A project where I introduced myself and learned the basic structure of a webpage
 
 [Go to Task - 3 Code](./Week%20-1/Task%20-3/index.html)
 
+---
+
+## Task - 4
+
+A personal blog project created using HTML and CSS to share experiences and ideas.
+
+[Go to Task - 4 Code](./Week%20-1/Task%20-4/index.html)
+
+---
+
+## Task - 5
+
+A simple guide website project built with HTML, showcasing navigation menus, informational pages, and a contact form.
+
+[Go to Task - 5 Code](./Week%20-1/Task%20-5/index.html)
+
+
+
