@@ -5,6 +5,7 @@ Projects in the first week:
 - [Task - 1: Classroom Table Project](#classroom-table-project)
 - [Task - 2: Form Elements Project](#form-elements-project)
 
+
 ---
 
 ## Week -1
@@ -22,3 +23,12 @@ This project demonstrates how to create and style an HTML table to display stude
 This project provides an example of an HTML form with various input elements like text fields, radio buttons, dropdowns, and textareas.
 
 [Go to Task - 2 Code](./Week%20-1/Use%20of%20Form%20Elements/index.html)
+
+---
+
+## Task - 3
+
+A project where I introduced myself and learned the basic structure of a webpage using HTML and CSS.
+
+[Go to Task - 3 Code](./Week%20-1/Task%20-3/index.html)
+
