@@ -48,5 +48,17 @@ A simple guide website project built with HTML, showcasing navigation menus, inf
 
 [Go to Task - 5 Code](./Week%20-1/Task%20-5/index.html)
 
+---
+
+## Week -2
+
+## Task - 1
+
+
+
+[Go to Task - 1 Code](.Week%20-2/Task%20-1)
+
+---
+
 
 
